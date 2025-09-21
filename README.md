@@ -23,9 +23,10 @@ This repository contains implementations of various algorithms studied under the
 cd Dynamic Programming/Longest Common Subsequence
 g++ lcs.cpp -o lcs
 ./lcs
-
+```
 ### LRS
 ```bash
 cd Dynamic Programming/Longest Repeated Subsequence
 g++ lrs.cpp -o lrs
-./l
+./lrs
+```
